@@ -13,14 +13,14 @@ This repository consists info about the SOLID Principles.
 
 **D:** Dependency Inversion Principle
 
-## Benefits of SOLID Principles: 
+## Benefits of SOLID Principles
 
 - **Improved Readability**: The code becomes more understandable because it follows common design patterns.
 - **Better Extensibility**: By following principles like the Open/Closed Principle, developers can add new functionality without modifying existing code.
 - **Reduced Risk of Bugs**: When code is structured well, there's less chance for new changes to introduce bugs.
 
 
-
+## All about Principles
 1. Single-Responsibility Principle **(SRP)**: A class should have one and only one reason to change. In other words, a class should have only one job or purpose within the software system.
 2. Open/Closed Principle **(OCP)**: Objects or entities should be open for extension but closed for modification. In other words, we should be able to extend a class behavior, without modifying it.
 3. Liskov Substitution Principle **(LSP)**: Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T. This means that derived or child classes must be substitutable for their base or parent classes.
@@ -37,6 +37,8 @@ This repository consists info about the SOLID Principles.
 **SRP, OCP, ISP, LSP, DIP** focuses on modular and extensible design.
 **DRY, KISS, YAGNI, APO** emphasizes maintainability and simplicity.
 **TDA, LoD, CoI** ensures clean and flexible interactions between classes.
+
+## Use Cases
 
 1. **Single-Responsibility Principle** Use Cases: 
 
