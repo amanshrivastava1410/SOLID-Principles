@@ -15,3 +15,33 @@ class Animal {
         this.movementBehavior = newBehavior;
     }
 }
+
+
+//// Code before CoI ----------->
+
+/// class Animal {
+// public void move() {
+//     System.out.println("Generic movement.");
+// }
+// }
+
+// class Bird extends Animal {
+// @Override
+// public void move() {
+//     System.out.println("Flying in the sky.");
+// }
+// }
+
+// class Fish extends Animal {
+// @Override
+// public void move() {
+//     System.out.println("Swimming in the water.");
+// }
+// }
+
+// class Human extends Animal {
+// @Override
+// public void move() {
+//     System.out.println("Walking on land.");
+// }
+// }
