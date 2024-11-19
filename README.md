@@ -1,4 +1,4 @@
-# SOLID-Principles
+# SOLID Principles
 This repository consists info about the SOLID Principles.
 
 **SOLID:** Acronym for the first five object-oriented design (OOD) principles. These principles establishes practices for developing software with considerations for maintaining and extending it as the project grows. The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which we should avoid in our code.
@@ -35,7 +35,9 @@ This repository consists info about the SOLID Principles.
 12. Composition Over Inheritance **(CoI)**: Prefer using composition (has-a relationship) over inheritance (is-a relationship) to build more flexible and modular systems.
 
 **SRP, OCP, ISP, LSP, DIP** focuses on modular and extensible design.
+
 **DRY, KISS, YAGNI, APO** emphasizes maintainability and simplicity.
+
 **TDA, LoD, CoI** ensures clean and flexible interactions between classes.
 
 ## Use Cases
